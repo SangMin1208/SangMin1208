@@ -1,8 +1,8 @@
-## About me. 
- I am a student at Jeonbuk National University.
+### About me 
+ I am a student at Jeonbuk National University studying big data.
 * Email : gkem0222@naver.com
 ---
-## Blog link
+### Blog link
  2025-1
 * [인공지능](https://sangmin1208.github.io/AI2025/)
 * [기계학습](https://sangmin1208.github.io/ML2025/)
