@@ -1,9 +1,9 @@
 ## About me. 
-### I am a student at Jeonbuk National University.
+ I am a student at Jeonbuk National University.
 * Email : gkem0222@naver.com
 ---
 ## Blog link
-### 2025-1
+ 2025-1
 * [인공지능](https://sangmin1208.github.io/AI2025/)
 * [기계학습](https://sangmin1208.github.io/ML2025/)
 * [딥러닝](https://sangmin1208.github.io/DL2025/)
