@@ -1,11 +1,14 @@
-#### Blog link
-https://sangmin1208.github.io/AI2025/
+### Blog link
+#### 2025-1
+[인공지능](https://sangmin1208.github.io/AI2025/)
 https://sangmin1208.github.io/ML2025/
 https://sangmin1208.github.io/DL2025/
 https://sangmin1208.github.io/CC2025/
 https://sangmin1208.github.io/DC2025/
 https://sangmin1208.github.io/poster2025/
-https://sangmin1208.github.io/ML-DL2025/
+https://sangmin1208.github.io/ML-DL/
+
+#### 2025-2
 
 <!--
 **SangMin1208/SangMin1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
