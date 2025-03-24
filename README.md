@@ -4,8 +4,8 @@
 ---
 ### Github Blog
  2025-1
+ 
  class
-
 * [딥러닝](https://sangmin1208.github.io/DL2025/)
 * [기계학습](https://sangmin1208.github.io/ML2025/)
 * [데이터과학입문](https://sangmin1208.github.io/DC2025/)
