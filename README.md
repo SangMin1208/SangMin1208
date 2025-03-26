@@ -2,6 +2,10 @@
  I am a student at Jeonbuk National University studying big data.
 * Email : gkem0222@naver.com
 ---
+### prize
+* '전북대학교 2024 인공지능 온라인 경진대회' 총장상(대상)
+* '2024년 동계 빅데이터 캠프' 1등상(최우수)
+---
 ### Github Blog
  #### 2025-1
  
