@@ -3,7 +3,7 @@
 * Email : gkem0222@naver.com
 ---
 ### Github Blog
- 2025-1
+ #### 2025-1
  
  class
 * [딥러닝](https://sangmin1208.github.io/DL2025/)
