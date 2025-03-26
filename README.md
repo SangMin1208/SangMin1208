@@ -2,14 +2,6 @@
  I am a student at Jeonbuk National University studying big data.
 * Email : gkem0222@naver.com
 ---
-### Prize
-* '전북대학교 2024 인공지능 온라인 경진대회' - 총장상(대상)
-* '2024년 동계 빅데이터 캠프' - 1등상(최우수)
----
-### Qualifications
-* 컴퓨터 활용능력 1급
-* TOEIC 6XX..
----
 ### Github Blog
  #### 2025-1
  
@@ -37,6 +29,14 @@ current
 * 인턴(학부연구생) 2025.3 ~ 
 * 통계적 사고와 사회 조교 2025.3 ~
 * 학회 포스터 제작 2025.3 ~
+---
+### Prize
+* '전북대학교 2024 인공지능 온라인 경진대회' - 총장상(대상)
+* '2024년 동계 빅데이터 캠프' - 1등상(최우수)
+---
+### Qualifications
+* 컴퓨터 활용능력 1급
+* TOEIC 6XX..
 ---
 <!--
 **SangMin1208/SangMin1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
