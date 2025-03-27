@@ -6,15 +6,15 @@
  #### 2025-1
  
  class
-* [딥러닝](https://sangmin1208.github.io/DL2025/)
-* [기계학습](https://sangmin1208.github.io/ML2025/)
-* [데이터과학입문](https://sangmin1208.github.io/DC2025/)
-* [인공지능](https://sangmin1208.github.io/AI2025/)
-* [클라우드컴퓨팅개론](https://sangmin1208.github.io/CC2025/)
+* [Deep Learning](https://sangmin1208.github.io/DL2025/)
+* [Machine Learning](https://sangmin1208.github.io/ML2025/)
+* [Introduction to Data Science](https://sangmin1208.github.io/DC2025/)
+* [Artificial Intelligence](https://sangmin1208.github.io/AI2025/)
+* [Introduction to Cloud Computing](https://sangmin1208.github.io/CC2025/)
   
  personal
-* [학회포스터](https://sangmin1208.github.io/poster2025/)
-* [머신러닝&딥러닝](https://sangmin1208.github.io/ML-DL/)
+* [Conference Poster](https://sangmin1208.github.io/poster2025/)
+* [Machine Learning & Deep Learning](https://sangmin1208.github.io/ML-DL/)
 
 #### 2025-2
 ---
