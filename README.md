@@ -22,7 +22,6 @@
 
 past
 * Big Data Club(JBIG) 2024.3 ~ 2024.8
-* 신빅해 2024.10.07 ~ 2024.10.11
 * LG Aimers 2025.1.3 ~ 2025.2.27
 
 current
@@ -36,7 +35,7 @@ current
 ---
 ### Qualifications
 * 컴퓨터 활용능력 1급
-* TOEIC 6XX..
+* TOEIC ()
 ---
 <!--
 **SangMin1208/SangMin1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
