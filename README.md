@@ -18,7 +18,7 @@
 
 #### 2025-2
 ---
-### Activity
+### Experiences
 
 past
 * Big Data Club(JBIG) 2024.3 ~ 2024.8
@@ -33,7 +33,7 @@ current
 * '전북대학교 2024 인공지능 온라인 경진대회' - 총장상(대상)
 * '2024년 동계 빅데이터 캠프' - 1등상(최우수)
 ---
-### Qualifications
+### Cirtificate
 * 컴퓨터 활용능력 1급
 * TOEIC ()
 ---
