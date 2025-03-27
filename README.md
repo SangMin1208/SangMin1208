@@ -21,13 +21,13 @@
 ### Experiences
 
 past
-* Big Data Club(JBIG) 2024.3 ~ 2024.8
-* LG Aimers 2025.1.3 ~ 2025.2.27
+* Big Data Club(JBIG) 2024.3 - 2024.8
+* LG Aimers 2025.1.3 - 2025.2.27
 
 current
-* Undergraduate Internship 2025.3 ~ 
-* Statistical Thinking and Society TA  2025.3 ~
-* Conference Poster Making 2025.3 ~
+* Undergraduate Internship 2025.3 - 
+* Statistical Thinking and Society TA  2025.3 -
+* Conference Poster Making 2025.3 -
 ---
 ### Prize
 * '전북대학교 2024 인공지능 온라인 경진대회' - 총장상(대상)
