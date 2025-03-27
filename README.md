@@ -27,7 +27,7 @@ past
 current
 * Undergraduate Internship 2025.3 ~ 
 * Statistical Thinking and Society TA  2025.3 ~
-* Conference Poster Production 2025.3 ~
+* Conference Poster Making 2025.3 ~
 ---
 ### Prize
 * '전북대학교 2024 인공지능 온라인 경진대회' - 총장상(대상)
