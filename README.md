@@ -14,7 +14,6 @@
 * [Machine Learning](https://sangmin1208.github.io/ML2025/)
 * [Introduction to Data Science](https://sangmin1208.github.io/DC2025/)
 * [Artificial Intelligence](https://sangmin1208.github.io/AI2025/)
-* [Introduction to Cloud Computing](https://sangmin1208.github.io/CC2025/)
 
 #### 2025-2
 ---
