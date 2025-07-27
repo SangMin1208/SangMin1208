@@ -7,7 +7,6 @@
 
   personal
 * [Conference Poster](https://sangmin1208.github.io/poster2025/)
-* [Machine Learning & Deep Learning](https://sangmin1208.github.io/ML-DL/)
   
  class
 * [Deep Learning](https://sangmin1208.github.io/DL2025/)
