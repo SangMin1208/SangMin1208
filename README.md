@@ -32,7 +32,9 @@ current
 ---
 ### Cirtificate
 * 컴퓨터 활용능력 1급
-* TOEIC ()
+* 데이터분석 준전문가
+* SQL 개발자
+* TOEIC 695
 ---
 <!--
 **SangMin1208/SangMin1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
