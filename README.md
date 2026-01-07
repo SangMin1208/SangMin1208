@@ -31,9 +31,7 @@
 #### 2025-2
  personal
 * [Papers with code](https://sangmin1208.github.io/paper_code/)
-
- class
-* [Linear Regression]()
+* [winter internship]()
 
 ---
 ### Project Experience
