@@ -29,6 +29,11 @@
 * [Introduction to Data Science](https://sangmin1208.github.io/DC2025/)
   
 #### 2025-2
+ personal
+* [Papers with code](https://sangmin1208.github.io/paper_code/)
+
+ class
+* [Linear Regression]()
 
 ---
 ### Project Experience
