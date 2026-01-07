@@ -30,8 +30,8 @@
   
 #### 2025-2
  personal
-* [Papers with code](https://sangmin1208.github.io/paper_code/)
-* [winter internship]()
+* [Papers with Code](https://sangmin1208.github.io/paper_code/)
+* [Winter Internship]()
 
 ---
 ### Project Experience
