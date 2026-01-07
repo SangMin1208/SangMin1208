@@ -1,12 +1,14 @@
 ### About me 
- I am a student at Jeonbuk National University studying big data.
+ I am a student at Jeonbuk National University studying Deep Learning.
+ I am interest in 3D Computer Vision and Deep Learning
+
 * Email : gkem0222@naver.com
 ---
 ### Github Blog
  #### 2025-1
 
   personal
-* [Conference Poster](https://sangmin1208.github.io/poster2025/)
+* [The 2025 Summer Conference of the Korean Statistical Society Poster](https://sangmin1208.github.io/poster2025/)
   
  class
 * [Deep Learning](https://sangmin1208.github.io/DL2025/)
@@ -14,17 +16,18 @@
 * [Introduction to Data Science](https://sangmin1208.github.io/DC2025/)
   
 #### 2025-2
+
 ---
-### Experiences
+### Internships
+* Multiscale Lab(Undergraduate Researcher) 2025.1 -
+* UVLL Lab(Undergraduate Researcher) 2026.1 -
 
-past
-* Big Data Club(JBIG) 2024.3 - 2024.8
+### Activity
+* JBNU Big Data Club(JBIG) 2024.3 - 2024.8
 * LG Aimers 2025.1.3 - 2025.2.27
-
-current
-* Undergraduate Internship 2025.3 - 
-* Statistical Thinking and Society TA  2025.3 -
-* Conference Poster Making 2025.3 -
+* 
+* Statistical Thinking and Society TA  2025.3 - 
+* Conference Poster Making 2025.3 - 6
 ---
 ### Prize
 * '전북대학교 2024 인공지능 온라인 경진대회' - 총장상(대상)
