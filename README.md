@@ -1,8 +1,12 @@
 ### About Me 
  I am an undergraduate in Statistics at Jeonbuk National University.
+ 
  I am currently an undergraduate researcher in Professor Seung-Ryul Baek's UVLL lab at UNIST.
- My research interests are 3D Computer Vision and Deep Learning
+ 
+ My research interests are 3D Computer Vision and Deep Learning.
+ 
  I am passionate about exploring innovative solutions in computer vision and look forward to contributing to cutting-edge research in this field.
+ 
 * Email : gkem0222@naver.com
 ---
 ### Education
@@ -32,21 +36,30 @@
 * Deep Neural Networks for Protein Function Prediction(UNLV in Las Vegas, NV) 2025.6 - 2025.7
 * Medical Iage Analysis 2025.9 -
 
-### Prize
-* '전북대학교 2024 인공지능 온라인 경진대회' - 총장상(대상)
-* '2024년 동계 빅데이터 캠프' - 1등상(최우수)
+### Awards
+* 2025.6 Jeonbuk National University AI Competition - Grand Prize, 총장상(대상)
+* 2024.1 Big Data Camp: Prompt Engineering Competition - First Prize, 1등상(최우수)
+---
+### Scholarships
+* 2021-2025 Academic Excellence Scholarship, Sancheong-gun Local Scholarship
+ * (Received: 2021.05, 2024.05, 2024.11, 2025.05, 2025.11)
+* 2024.12 Yellow Belt, Keun-Saram (Great Person) Project Jeonbuk National Univ.
+* 2025.7 Challenge Award, J-Point Scholarship Program
 ---
 ### Activity
 * JBNU Big Data Club(JBIG) 2024.3 - 2024.8
-* LG Aimers 2025.1.3 - 2025.2.27
-* 
+* LG Aimers 6th semestere 2025.1.3 - 2025.2.27
 * Statistical Thinking and Society TA  2025.3 - 
-* Conference Poster Making 2025.3 - 6
+* The 2025 Summer Conference of the Korean Statistical Society 2025.3 - 6
 ---
+### Skills
+* programming - python, R, C, C++
+* APIs & Frameworks - PyTorch, Scikit-learn, Transformers, HuggingFace
+
 ### Cirtificate
-* 컴퓨터 활용능력 1급
-* 데이터분석 준전문가
-* SQL 개발자
+* 2022.02   Computer Specialist in Spreadsheet & Database Level-1
+* 2025.11  ADsP : Advanced Data Analytics Semi-Professional
+* 2025.11  ADsP : Advanced Data Analytics Semi-Professional
 * TOEIC 695
 ---
 <!--
