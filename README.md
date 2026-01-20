@@ -41,7 +41,7 @@
 ### Project Experience
 * Deep learning-based Neural Granger Causality for Solar Radiation Data 2025.3 - 2025.6
 * Deep Neural Networks for Protein Function Prediction(UNLV in Las Vegas, NV) 2025.6 - 2025.7
-* Medical Iage Analysis 2025.9 -
+* Medical Image Analysis 2025.9 -
 
 ### Awards
 * 2025.6 Jeonbuk National University AI Competition - Grand Prize, 총장상(대상)
@@ -66,7 +66,7 @@
 ### Cirtificate
 * 2022.02   Computer Specialist in Spreadsheet & Database Level-1
 * 2025.11  ADsP : Advanced Data Analytics Semi-Professional
-* 2025.11  ADsP : Advanced Data Analytics Semi-Professional
+* 2025.12  SQLD : SQL Developer
 * TOEIC 695
 ---
 <!--
