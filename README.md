@@ -60,7 +60,7 @@
 * The 2025 Summer Conference of the Korean Statistical Society 2025.3 - 6
 ---
 ### Skills
-* programming - python, R, C, C++
+* Programming - Python, R, C, C++
 * APIs & Frameworks - PyTorch, Scikit-learn, Transformers, HuggingFace
 
 ### Cirtificate
