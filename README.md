@@ -34,7 +34,7 @@
   
 #### 2025-2
  personal
-* [Winter Internship]()
+* [Winter Internship](https://sangmin1208.github.io/UVLL/)
 * [Computer Vision](https://sangmin1208.github.io/CV/)
 
 ---
