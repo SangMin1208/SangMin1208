@@ -18,7 +18,11 @@
 * UVLL Lab(Undergraduate Researcher)[UNIST] 2026.1 -
 ---
 ### Github Blog
- #### 2025-1
+
+#### Now
+* [Papers with Code](https://sangmin1208.github.io/paper_code/)
+
+#### 2025-1
 
   personal
 * [The 2025 Summer Conference of the Korean Statistical Society Poster](https://sangmin1208.github.io/poster2025/)
@@ -30,8 +34,8 @@
   
 #### 2025-2
  personal
-* [Papers with Code](https://sangmin1208.github.io/paper_code/)
 * [Winter Internship]()
+* [Computer Vision]()
 
 ---
 ### Project Experience
