@@ -35,7 +35,7 @@
 #### 2025-2
  personal
 * [Winter Internship]()
-* [Computer Vision]()
+* [Computer Vision](https://sangmin1208.github.io/CV/)
 
 ---
 ### Project Experience
