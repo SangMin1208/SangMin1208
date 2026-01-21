@@ -22,21 +22,15 @@
 #### Now
 * [Papers with Code](https://sangmin1208.github.io/paper_code/)
 
-#### 2025-1
+#### 2025-2
+* [Computer Vision](https://sangmin1208.github.io/CV/)
+* [Winter Internship](https://sangmin1208.github.io/UVLL/)
 
-  personal
-* [The 2025 Summer Conference of the Korean Statistical Society Poster](https://sangmin1208.github.io/poster2025/)
-  
- class
+#### 2025-1
 * [Deep Learning](https://sangmin1208.github.io/DL2025/)
 * [Machine Learning](https://sangmin1208.github.io/ML2025/)
+* [The 2025 Summer Conference of the Korean Statistical Society Poster](https://sangmin1208.github.io/poster2025/)
 * [Introduction to Data Science](https://sangmin1208.github.io/DC2025/)
-  
-#### 2025-2
- personal
-* [Winter Internship](https://sangmin1208.github.io/UVLL/)
-* [Computer Vision](https://sangmin1208.github.io/CV/)
-
 ---
 ### Project Experience
 * Deep learning-based Neural Granger Causality for Solar Radiation Data 2025.3 - 2025.6 [Poster](https://github.com/SangMin1208/poster2025/blob/main/%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%B5%9C%EC%A2%85.pdf)
