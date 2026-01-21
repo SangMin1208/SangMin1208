@@ -11,7 +11,7 @@
 ---
 ### Education
 * Jeonbuk National University 2021.3 - 2027.2(Expected)
- * B.S. in Statistics, Colleage of Natural Sciences
+  * B.S. in Statistics, Colleage of Natural Sciences
 ---
 ### Internships
 * Multiscale Lab(Undergraduate Researcher)[JBNU] 2025.1 -
