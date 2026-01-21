@@ -39,7 +39,7 @@
 
 ---
 ### Project Experience
-* Deep learning-based Neural Granger Causality for Solar Radiation Data 2025.3 - 2025.6
+* Deep learning-based Neural Granger Causality for Solar Radiation Data 2025.3 - 2025.6 [Poster](https://github.com/SangMin1208/poster2025/blob/main/%ED%8F%AC%EC%8A%A4%ED%84%B0_%EC%B5%9C%EC%A2%85.pdf)
 * Deep Neural Networks for Protein Function Prediction(UNLV in Las Vegas, NV) 2025.6 - 2025.7
 * Medical Image Analysis 2025.9 -
 
