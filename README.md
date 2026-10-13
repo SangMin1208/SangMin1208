@@ -21,7 +21,7 @@
 
 #### 2026-2(Now)
 * [Theory: Math & Concepts for LLMs]()
-* [Hands-on: Building and Fine-Tuning LLMs]()
+* [Building and Fine-Tuning LLMs]()
 * [Paper Review (KIRC)]()
 
 #### 2026-1
