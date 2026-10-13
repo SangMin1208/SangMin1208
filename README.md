@@ -14,17 +14,21 @@
   * B.S. in Statistics, Colleage of Natural Sciences
 ---
 ### Internships
-* Multiscale Lab(Undergraduate Researcher)[JBNU] 2025.1 -
-* UVLL Lab(Undergraduate Researcher)[UNIST] 2026.1 -
+* Multiscale Lab(Undergraduate Researcher)[JBNU] 2025.1 - 2025.12
+* UVLL Lab(Undergraduate Researcher)[UNIST] 2026.1 -2026.9
 ---
 ### Github Blog
 
-#### Now
-* [Papers with Code](https://sangmin1208.github.io/paper_code/)
+#### 2026-2(Now)
+* [Theory: Math & Concepts for LLMs]()
+* [Hands-on: Building and Fine-Tuning LLMs]()
+* [Paper Review (KIRC)]()
+
+#### 2026-1
+* [Paper Review (UVLL)](https://sangmin1208.github.io/paper_code/)
 
 #### 2025-2
 * [Computer Vision](https://sangmin1208.github.io/CV/)
-* [Winter Internship](https://sangmin1208.github.io/UVLL/)
 
 #### 2025-1
 * [Deep Learning](https://sangmin1208.github.io/DL2025/)
